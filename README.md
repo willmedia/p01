@@ -1,2 +1,3 @@
 # p01
-je deteste ce qui me test
+je deteste ceux qui me testent 
+test ceux qui me desteste
